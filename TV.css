@@ -1,0 +1,24 @@
+#status, #number_of_objects, #start_model
+{
+font-size: 18px;
+}
+body{
+    background-size: cover;
+    background-position: center;
+}
+.heading{
+    font-size: 23px;
+}
+canvas
+{
+    box-shadow: 10px 10px 10px grey;
+    border-radius: 10px;
+    border: white double 3px;
+    margin-top: 60px;
+}
+#back{
+    background-color: antiquewhite;
+    float: left;
+    margin: 20px;
+    margin-right: -20px;
+}
